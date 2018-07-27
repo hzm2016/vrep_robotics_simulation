@@ -1,0 +1,26 @@
+Metadata-Version: 1.1
+Name: pyrep
+Version: 0.2.0
+Summary: Simple python binding for V-REP robotics simulator
+Home-page: https://github.com/Troxid/vrep-api-python
+Author: troxid
+Author-email: troxid@yandex.ru
+License: MIT
+Description: UNKNOWN
+Keywords: vrep robotics simulator binding api
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Games/Entertainment :: Simulation
+Classifier: Topic :: Education
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: Implementation :: CPython
